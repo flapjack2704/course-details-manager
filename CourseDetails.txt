@@ -1,0 +1,3 @@
+Course Name,Number of PT Students,Number of FT Students,Percentage of male students,Percentage of female students 
+Computer Science,8,11,57.89%,42.11%
+

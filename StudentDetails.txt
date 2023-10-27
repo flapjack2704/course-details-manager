@@ -1,0 +1,20 @@
+name,dd/mm/yyyy,gender,ft/pt,yearOfStudy,no.ofModules,tuition
+Micky Joe,21/01/2003,Male,ft,2,6,5000
+Marty Doherty,02/07/2001,Male,pt,2,3,2250
+Janty Mclovin,23/04/2000,Male,ft,1,6,5000
+John Doe,25/12/2002,Male,pt,1,3,2250
+Sarah Lions,05/05/2003,Female,ft,1,6,5000
+Cleetus Mc Geee,08/11/2004,Female,pt,1,3,2250
+Tammy Acorn,01/01/1996,Female,ft,3,6,2500
+Velma Mouse,23/09/2001,Female,ft,2,6,5000
+Lara Crofte,19/06/2002,Female,pt,2,3,2250
+Angus McFife,27/04/2000,Male,ft,2,6,5000
+Bruce Barnes,22/11/2000,Male,pt,1,4,3000
+Justin Marshall,13/09/2000,Male,pt,2,5,3750
+Theo Greene,21/10/1998,Male,pt,3,2,1500
+Joseph Haines,22/10/1988,Male,ft,3,5,2500
+Louise Mcpherson,22/10/2000,Male,ft,3,2,2500
+Claire Kennedy,21/10/2000,Male,pt,3,2,1500
+Ella Boyle,10/10/2000,Female,ft,4,2,5000
+Kelsey Yang,20/10/2002,Female,ft,1,5,5000
+Holly Pace,26/06/2002,Female,ft,1,6,5000
